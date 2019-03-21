@@ -4,8 +4,8 @@ import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
 
-import Home from './components/Home';
-import Weather from './components/Weather';
+import Home from './Home';
+import Weather from './Weather';
 import {Route, Link,  BrowserRouter as Router, Switch} from 'react-router-dom';
 
 
